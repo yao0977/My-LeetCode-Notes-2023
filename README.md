@@ -14,8 +14,8 @@ This repository contains my notes and solutions for various LeetCode problems. I
 <!-- Update the list below with the actual problems you have documented -->
 - [Two Pointers - Problem 1; 06/26/2023](Q167.md)
 - [Two Pointers - Problem 2; 06/26/2023](Q633.md)
-- [Problem 3](problem3.md)
-- [Problem 4](problem4.md)
+- [Two Pointers - Problem 3; 06/26/2023](Q345.md)
+- [Two Pointers - Problem 4; 06/26/2023](Q680.md)
 - [Problem 5](problem5.md)
 - [Problem 6](problem6.md)
 - [Problem 7](problem7.md)
