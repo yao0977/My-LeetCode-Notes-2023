@@ -23,7 +23,7 @@ This repository contains my notes and solutions for various LeetCode problems. I
 - [Sorting - Problem 9; 06/28/2023](Q347.md)
 - [Sorting - Problem 10; 06/29/2023](Q451.md)
 - [Sorting - Problem 11; 06/29/2023](Q75.md)
-- [Greedy Algorithm - Problem 12; 06/30/2023](Q455.md)
+- [Greedy Algorithm - Problem 12; 06/29/2023](Q455.md)
 - [Greedy Algorithm - Problem 13; 06/30/2023](Q435.md)
 - [Greedy Algorithm - Problem 14; 06/30/2023](Q452.md)
 - [Greedy Algorithm - Problem 15; 06/30/2023](Q406.md)
