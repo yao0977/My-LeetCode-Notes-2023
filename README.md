@@ -30,7 +30,7 @@ This repository contains my notes and solutions for various LeetCode problems. I
 - [Greedy Algorithm - Problem 16; 07/03/2023](Q121.md)
 - [Greedy Algorithm - Problem 17; 07/03/2023](Q122.md)
 - [Greedy Algorithm - Problem 18; 07/03/2023](Q605.md)
-- [Problem 19](problem19.md)
+- [Greedy Algorithm - Problem 19; 07/03/2023](Q392.md)
 - [Problem 20](problem20.md)
 - [Problem 21](problem21.md)
 - [Problem 22](problem22.md)
