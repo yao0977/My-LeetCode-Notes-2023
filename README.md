@@ -40,7 +40,7 @@ This repository contains my notes and solutions for various LeetCode problems. I
 - [Binary Search - Problem 26; 07/11/2023](Q278.md)
 - [Binary Search - Problem 27; 07/11/2023](Q153.md)
 - [Binary Search - Problem 28; 07/11/2023](Q34.md)
-- [Problem 29](problem29.md)
+- [Search - Problem 29; 07/12/2023](Q1091.md)
 - [Problem 30](problem30.md)
 - [Problem 31](problem31.md)
 - [Problem 32](problem32.md)
